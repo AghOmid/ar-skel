@@ -1,0 +1,8 @@
+adapter: postgresql
+username: omid
+password: # Your password
+host: localhost
+pool: 5
+database: ar-skel
+encoding: utf8
+logger: true
